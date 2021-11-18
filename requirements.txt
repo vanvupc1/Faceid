@@ -1,0 +1,7 @@
+tkinter
+opencv-python
+sqlite
+numpy
+Pillow
+pyttsx3
+
